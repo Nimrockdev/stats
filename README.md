@@ -1,7 +1,10 @@
 <p align="center">
+  
   <img align="center" alt="Akshat's github stats" src="https://github-readme-stats.vercel.app/api?username=nimrockdev&show_icons=true&theme=tokyonight" />
+  
   </br>
   </br>
+  
   <img align="center" alt="Akshat's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimrockdev&exclude_repo=portfolio,twittor,socket-chat&theme=tokyonight&layout=compact" />  
 
   </br>
